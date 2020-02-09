@@ -9,7 +9,7 @@ export class SpotifyService {
   public token = 'BQCp0oEpASuJmcXaDCe8NzY_EIvlGZCTEA1xmR08sQF3G1EJK75zhPa2kwdCsj-7rvwDQMx17tzqTIJShbs';
   /*
   los token duran 1 hora, se debe hacer otra solicitd postman a:
-  https://accounts.spotify.com/api/token 
+  https://accounts.spotify.com/api/token
   x-wwww-form-
   parametros
   grant_type client_credentials
